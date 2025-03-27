@@ -26,7 +26,7 @@ Halt is a desktop application for interacting with local Large Language Models (
    ```
 3. Run the application:
    ```
-   python HALT2.py
+   python HALT.py
    ```
 
 ## Quick Start
@@ -64,7 +64,7 @@ The application uses a system instructions manager to provide context to the AI.
 
 ## Multi-Agent Mode
 
-TrueHalt supports conversations between multiple AI agents:
+Halt supports conversations between multiple AI agents:
 
 1. Go to the "Agents" tab
 2. Enable "Multi-Agent Mode"
