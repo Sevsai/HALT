@@ -1,0 +1,14 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+bitsandbytes>=0.40.0
+accelerate>=0.20.0
+PyQt5>=5.15.0
+requests>=2.28.0
+tqdm>=4.64.0
+python-dotenv>=1.0.0
+
+# Optional dependencies
+huggingface_hub>=0.16.0
+safetensors>=0.3.1
+sentencepiece>=0.1.99
